@@ -19,6 +19,9 @@
 .DS_Store
 *.pem
 
+# local documents (not tracked by git)
+/docs_local
+
 # debug
 npm-debug.log*
 yarn-debug.log*
